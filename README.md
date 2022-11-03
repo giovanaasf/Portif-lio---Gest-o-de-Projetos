@@ -14,4 +14,4 @@ E é nessa etapa que estou, fazendo, junto com a faculdade e a especialização,
 
 Fique à vontade para inspecionar cada arquivo colocado aqui!<br>
 Ah, se quiser entrar em contato, me chama no insta (@gi_asf). Vai que a gente se ajuda!
-
+.
