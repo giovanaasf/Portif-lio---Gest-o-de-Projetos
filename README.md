@@ -1,6 +1,6 @@
 # Portifólio
 ## Sobre mim
-Todo mundo já conheceu pelo menos uma pessoa que gosta de planejar todos seus passos, profissionais e/ou cotidianos, em enormes listas To-Do e agendas e aplicativos e planilhas e sabe-se onde mais. Bom, geralmente, e em qualquer âmbito, essa pessoa sou eu.<br>
+Todo mundo já conheceu pelo menos uma pessoa que gosta de planejar todos os seus passos, profissionais e/ou cotidianos, em enormes listas To-Do e agendas e aplicativos e planilhas e sabe-se onde mais. Bom, geralmente, e em qualquer âmbito, essa pessoa sou eu.<br>
 
 Logo, apesar de ainda me surpreender cada vez que esta responsabilidade é passada para mim, não é incomum que a parte de organização e/ou gerenciamento de projetos, ou trabalhos acadêmicos, me seja incumbida.<br>
 
@@ -14,4 +14,3 @@ E é nessa etapa que estou, fazendo, junto com a faculdade e a especialização,
 
 Fique à vontade para inspecionar cada arquivo colocado aqui!<br>
 Ah, se quiser entrar em contato, me chama no insta (@gi_asf). Vai que a gente se ajuda!
-.
